@@ -16,5 +16,5 @@ Sara Simon, Ian Andersen, Jim Sutton
 
 ### Jim Sutton
 
-* Topic: 
-* Theme: 
+* Topic: Donald Knuth
+* Theme: Great Minds in Computer Science
